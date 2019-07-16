@@ -241,8 +241,7 @@
 		"nop",
 		"jp $0150"
 	],
-	"title": "ATARI/MIDWA",
-	"code": "Y720",
+	"title": "ATARI/MIDWAY720",
 	"cgb mode": "dmg+cgb",
 	"new licensee": "5D",
 	"cartridge type": "mbc5",
