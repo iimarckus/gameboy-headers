@@ -1,0 +1,14 @@
+This is a JSON database of the header values of all ROMs in a complete
+No‐Intro licensed ROM set.
+
+If you find any missing or wrong values, contact me at: iimarckus@gmail.com
+
+Some notes:
+
+Caesar's Palace and Prince of Persia have “EJM” in the header. These are
+probably the initials of programmer Ed Magnin.
+
+The USA/Europe release of NBA All Star Challenge 1 & 2 has “FF” for the
+new licensee and SGB values.
+
+Gluecksrad contains the only non-ASCII title (“GLÜCKSRAD”).
